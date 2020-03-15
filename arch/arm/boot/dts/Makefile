@@ -189,6 +189,8 @@ dtb-$(CONFIG_ARCH_MXC) += \
 	imx6q-sabresd-ldo.dtb \
 	imx6q-sabresd-hdcp.dtb \
 	imx6qp-openrex.dtb \
+	imx6q-openrex.dtb \
+	imx6s-openrex.dtb \
 	imx6q-sbc6x.dtb \
 	imx6q-udoo.dtb \
 	imx6q-wandboard.dtb \
